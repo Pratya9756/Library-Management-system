@@ -13,5 +13,5 @@ This is a Library Management System built using Django 3.0.5 and MySQL as the da
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-repository/librarymanagement.git
+git clone https://github.com/Pratya9756/Library-Management-system.git
 cd librarymanagement
